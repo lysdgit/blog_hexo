@@ -1,0 +1,43 @@
+# Favicon
+favicon: /favicon.ico
+
+# SEO
+keywords: 
+
+# Site title separator
+separator: '-'
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+
+# RSS
+rss: /atom.xml
+
+# SNS config
+sns:
+  GitHub: /
+  RSS: /
+  
+# Nav menu
+menu:
+  Home: /
+  Archives: /archives
+
+email: 
+search: true
+
+# Home config
+home:
+-
+  path: 
+  title: 
+  desc: 
+
